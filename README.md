@@ -1,1 +1,1 @@
-# student-management-system
+This is a **Java-based group project** on **Student Management System** using **JDBC and MySQL**. It allows  users to **add, view, update, and delete student records**, demonstrating teamwork in implementing **CRUD operations** with proper database connectivity 
